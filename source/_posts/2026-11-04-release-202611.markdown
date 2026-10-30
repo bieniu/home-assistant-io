@@ -103,6 +103,7 @@ Enjoy the (beta) release!
 - [Integrations](#integrations)
   - [New integrations](#new-integrations)
   - [Noteworthy improvements to existing integrations](#noteworthy-improvements-to-existing-integrations)
+    - [Infrared and radio frequency keep growing](#infrared-and-radio-frequency-keep-growing)
   - [Integration quality scale achievements](#integration-quality-scale-achievements)
   - [Now available to set up from the UI](#now-available-to-set-up-from-the-ui)
   - [Farewell to the following](#farewell-to-the-following)
@@ -675,9 +676,11 @@ This release, we celebrate several {% term integrations %} that have improved th
   - [Threema], thanks to [@LukasQ]
   - [Tractive], thanks to [@bieniu]
 
-- **4 integrations reached bronze** 🥉
+- **6 integrations reached bronze** 🥉
   - [Holiday], thanks to [@gjohansson-ST]
   - [LOQED Touch Smart Lock], thanks to [@mikewoudenberg]
+  - [Nettigo Air Monitor], thanks to [@bieniu]
+  - [Sony Bravia TV], thanks to [@bieniu]
   - [Trafikverket Camera], thanks to [@gjohansson-ST]
   - [Trafikverket Weather Station], thanks to [@gjohansson-ST]
 
@@ -715,6 +718,7 @@ A big thank you to all the contributors involved! 👏
 [LOQED Touch Smart Lock]: /integrations/loqed
 [Midea]: /integrations/midea
 [my-PV]: /integrations/my_pv
+[Nettigo Air Monitor]: /integrations/nam
 [PVOutput]: /integrations/pvoutput
 [Qingping]: /integrations/qingping
 [Qube heat pump]: /integrations/hr_energy_qube
@@ -724,6 +728,7 @@ A big thank you to all the contributors involved! 👏
 [ScorpionTrack]: /integrations/scorpiontrack
 [SMHI]: /integrations/smhi
 [SMTP]: /integrations/smtp
+[Sony Bravia TV]: /integrations/braviatv
 [Threema]: /integrations/threema
 [Tractive]: /integrations/tractive
 [Trafikverket Camera]: /integrations/trafikverket_camera
